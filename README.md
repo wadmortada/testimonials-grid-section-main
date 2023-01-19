@@ -19,7 +19,7 @@ testimonials-grid-section-main
 
 ## Challenge live URL 
 
-https://wadmortada.github.io/huddle-landing-page/
+https://wadmortada.github.io/testimonials-grid-section-main/
 
 ## Finally
 
